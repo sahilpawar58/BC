@@ -1,0 +1,40 @@
+Blockchain {
+  chain: [
+    Block {
+      timestamp: 1692862983830,
+      lastHash: '64b7edc786326651e031a4d12d9838d279571946d8c9a5d448c70db94basg5d',
+      hash: 'c671c84681b9d682b9fd43b2a2ef01a343eab7cfa410df9835f8165007d38467',
+      data: 'BLOCK CHAIN 0'
+    },
+    Block {
+      timestamp:1692862983831,
+      lastHash: 'c671c84681b9d682b9fd43b2a2ef01a343eab7cfa410df9835f8165007dsdgr5',
+      hash: '2a0059d473a26db2bdde0cffd00a79e5b80e64815e8e60432e90e71cf632cf73',
+      data: 'BLOCK CHAIN 1'
+    },
+    Block {
+      timestamp: 1692862983832,
+      lastHash: '2a0059d473a26db2bdde0cffd00a79e5b80e64815e8e60432e90e71cf632df45',
+      hash: '458173bc13762285e7fd778cd5bd97e5dd10fdfcbbed409445190d022d5047c8',
+      data: 'BLOCK CHAIN 2'
+    },
+    Block {
+      timestamp: 1692862983833,
+      lastHash: '458173bc13762285e7fd778cd5bd97e5dd10fdfcbbed409445190d022d55641r',
+      hash: 'a018636e7a5d051141a0667770ec085afbe380b7209a3078d63e542b2ac512ec',
+      data: 'BLOCK CHAIN 3'
+    },
+    Block {
+      timestamp: 1692862983834,
+      lastHash: 'a018636e7a5d051141a0667770ec085afbe380b7209a3078d63e542b2ac568sd',
+      hash: '4bdb29a6b29ea73effdde2cf608815ed89e27ed5695c09108f74f847ead396cf',
+      data: 'BLOCK CHAIN 4'
+    },
+    Block {
+      timestamp: 1692862983835,
+      lastHash: '4bdb29a6b29ea73effdde2cf608815ed89e27ed5695c09108f74f847ead895gh',
+      hash: '022640b7e481413bc21e093dc7eba67cb914735dea47c55aff4d112c20c96bd3',
+      data: 'BLOCK CHAIN 5'
+    }
+  ]
+}
