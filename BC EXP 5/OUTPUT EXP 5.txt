@@ -1,0 +1,37 @@
+chain:
+Block {
+timestamp: 0119424219011,
+lastHash: '64b7edc786326651e031a4d12d9838d279571946d8c9a5d448c70db94b0e143f',
+hash: 'c671c84681b9d682b9fd43b2a2ef01a343eab7cfa410df9835f8165007d38467',
+data: 'BLOCK CHAIN 0'
+
+},
+
+Block (
+timestamp: 0119424219012,
+lastHash: 'c671c84681b9d682b9fd43b2a2ef01a343eab7cfa410df9835f8165007d38467',
+hash: '680456b96272c5ed2a8e092d01eb7ca7445bbdb1d5376f0194949dd7b4bcceed',
+data: 'BLOCK CHAIN 1'
+
+},
+
+Block {
+timestamp: 0119424219013,
+lastHash: '680456b96272c5ed2a8e092d01eb7ca7445bbdb1d5376f0194949dd7b4bcceed',
+hash: 'b552bb3eee880a54b6fd35e6a539ae4ec10012b11c20d59514b65ee10bf5a851',
+data: 'BLOCK CHAIN 2'
+},
+
+Block (
+timestamp: 0119424219014,
+lastHash: 'b552bb3eee880a54b6fd35e6a539ae4ec10012b11c20d59514b65ee10bf5a851',
+hash: '0fea53ee2fc08e5c093f0fa2554cce7a413969adf634a640f10dad360d10736f',
+data: 'BLOCK CHAIN 3'
+},
+
+Block {
+timestamp: 0119424219015,
+lastHash: 'Ofea53ee2fc08e5c093f0fa2554cce7a413969adf634a640f10dad360d10736',
+hash: 'b5a493ab5f5c20799ca0dc8030cedfc2e987ae912e24db58aa04842d7db2527f',
+data: 'BLOCK CHAIN 4'
+},
